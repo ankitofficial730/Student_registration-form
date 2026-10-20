@@ -1,0 +1,1 @@
+Implement the Flask backend for student registration, form processing, admin authentication, student record management, and database operations.
