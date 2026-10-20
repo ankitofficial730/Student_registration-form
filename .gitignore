@@ -1,0 +1,1 @@
+Exclude private configuration files, environment variables, database files, uploaded documents, Python cache files, and other sensitive data from Git tracking.
